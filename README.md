@@ -2,9 +2,8 @@
 
 Project Game – Grafika Komputer 2022
 
-Ketua :
+Ketua   :
 Yuda Edy Payo Gurusinga
-
 Anggota :
 1. Wahyu Seto Pranata
 2. Ady Muhammad Ihsan
