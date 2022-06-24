@@ -1,7 +1,8 @@
 # PECO-and-The-Healing-Plant
 
-Project Game – Grafika Komputer 2022;
-Ketua : ;
+Project Game – Grafika Komputer 2022
+
+Ketua :
 Yuda Edy Payo Gurusinga
 
 Anggota :
